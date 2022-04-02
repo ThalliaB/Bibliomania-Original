@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+
+import Container from './components/layout/Container';
+import Navbar from './components/layout/Navbar';
+import Footer from './components/layout/Footer';
+
+import Cadastro from './components/pages/Cadastro';
+import Home from './components/pages/Home';
+import Sobre from './components/pages/Sobre';
+import TabelaCompleta from './components/pages/TabelaCompleta';
+import Tabela2022 from './components/pages/Tabela2022';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+
+    <Navbar />
+
+      <Container customClass="min-height">
+        <Routes>
+          {/* aqui vao as referencias q dps serão chamadas para o roteamento das paginas */}
+          <Route path="/" element={<Home/>} />
+          <Route path="/cadastro" element={<Cadastro/>} />
+          <Route path="/tabelacompleta" element={<TabelaCompleta/>} />
+          <Route path="/tabela2022" element={<Tabela2022/>} />
+          <Route path="/sobre" element={<Sobre/>} />
+        </Routes>
+      </Container>
+
+    <Footer />
+
+    </Router>
   );
 }
 
 export default App;
+
+// O Router envolve tudo
+// Dps vem o Routes que envolve as referências para as páginas que dps serão chamadas
+// E dentro dos Routes vão os Route que é o próprio link que leva à página
