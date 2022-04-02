@@ -1,0 +1,452 @@
+{
+  "livros2022": [],
+  "livros2021": [
+    {
+      "titulo": "Os Miseráveis Vol 1",
+      "autor": "Victor Hugo",
+      "paginas": "631",
+      "editora": "Nova Fronteira",
+      "id": 1
+    },
+    {
+      "titulo": "Os Miseráveis Vol 2",
+      "autor": "Victor Hugo",
+      "paginas": "923",
+      "editora": "Nova Fronteira",
+      "id": 2
+    },
+    {
+      "titulo": "Como eu era antes de você",
+      "autor": "Jojo Moyes",
+      "paginas": "286",
+      "editora": "Intrínseca",
+      "id": 3
+    },
+    {
+      "titulo": "A garota do lago",
+      "autor": "Charlie Donlea",
+      "paginas": "295",
+      "editora": "Faro",
+      "id": 4
+    },
+    {
+      "titulo": "Os homens que não amavam as mulheres - Millennium 1",
+      "autor": "Stieg Larsson",
+      "paginas": "522",
+      "editora": "Cia. das Letras",
+      "id": 5
+    },
+    {
+      "titulo": "Depois de Você",
+      "autor": "Jojo Moyes",
+      "paginas": "285",
+      "editora": "Intrínseca",
+      "id": 6
+    },
+    {
+      "titulo": "Ainda sou eu",
+      "autor": "Jojo Moyes",
+      "paginas": "318",
+      "editora": "Intrínseca",
+      "id": 7
+    },
+    {
+      "titulo": "A menina que brincava com fogo - Millenniun 2",
+      "autor": "Stieg Larsson",
+      "paginas": "607",
+      "editora": "Cia. das Letras",
+      "id": 8
+    },
+    {
+      "titulo": "A rainha do castelo de ar - Millenniun 3",
+      "autor": "Stieg Larsson",
+      "paginas": "685",
+      "editora": "Cia. das Letras",
+      "id": 9
+    },
+    {
+      "titulo": "Seara Vermelha",
+      "autor": "Jorge Amado",
+      "paginas": "340",
+      "editora": "Cia. das Letras",
+      "id": 10
+    },
+    {
+      "titulo": "O Quinze",
+      "autor": "Rachel de Queiroz",
+      "paginas": "157",
+      "editora": "José Olímpio",
+      "id": 11
+    },
+    {
+      "titulo": "A morte e a morte de Quincas Berro d'agua",
+      "autor": "Jorge Amado",
+      "paginas": "92",
+      "editora": "Cia. das Letras",
+      "id": 12
+    },
+    {
+      "titulo": "Os sofrimentos do jovem Werter",
+      "autor": "Goethe",
+      "paginas": "158",
+      "editora": "Cia. das Letras",
+      "id": 13
+    },
+    {
+      "titulo": "Capitães da areia",
+      "autor": "Jorge Amado",
+      "paginas": "156",
+      "editora": "Record",
+      "id": 14
+    },
+    {
+      "titulo": "Germinal",
+      "autor": "Émile Zola",
+      "paginas": "238",
+      "editora": "Cia. das Letras",
+      "id": 15
+    },
+    {
+      "titulo": "Alice no país das Maravílhas",
+      "autor": "Lewis Carroll",
+      "paginas": "142",
+      "editora": "Faro",
+      "id": 16
+    },
+    {
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "paginas": "368",
+      "editora": "Princips",
+      "id": 17
+    },
+    {
+      "titulo": "Dona Flor e seus dois maridos",
+      "autor": "Jorge Amado",
+      "paginas": "448",
+      "editora": "Record",
+      "id": 18
+    },
+    {
+      "titulo": "Gabriela, Cravo e canela",
+      "autor": "Jorge Amado",
+      "paginas": "368",
+      "editora": "Record",
+      "id": 19
+    },
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "paginas": "208",
+      "editora": "Gold",
+      "dataDeInicio": "2021-09-20",
+      "dataDeFinalizacao": "2021-10-02",
+      "id": 20
+    },
+    {
+      "titulo": "O Decamerão vol 1",
+      "autor": "Giovanni Boccaccio",
+      "paginas": "551",
+      "editora": "Nova Fronteira",
+      "dataDeInicio": "2021-10-02",
+      "dataDeFinalizacao": "2021-10-17",
+      "id": 21
+    },
+    {
+      "titulo": "O Decamerão vol 2",
+      "autor": "Giovanni Boccaccio",
+      "paginas": "447",
+      "editora": "Nova Fronteira",
+      "dataDeInicio": "2021-10-17",
+      "dataDeFinalizacao": "2021-11-01",
+      "id": 22
+    },
+    {
+      "titulo": "Novembro, 9",
+      "autor": "Collen Hoover",
+      "paginas": "349",
+      "editora": "Galera",
+      "dataDeInicio": "2021-11-01",
+      "dataDeFinalizacao": "2021-11-05",
+      "id": 23
+    },
+    {
+      "titulo": "A garota na teia de aranha - Millenniun 4",
+      "autor": "David Lagercrantz",
+      "paginas": "464",
+      "editora": "Cia. das Letras",
+      "dataDeInicio": "2021-11-05",
+      "dataDeFinalizacao": "2021-11-13",
+      "id": 24
+    },
+    {
+      "titulo": "Sua alteza real",
+      "autor": "Rachel Hawkins",
+      "paginas": "304",
+      "editora": "Alt",
+      "dataDeInicio": "2021-11-13",
+      "dataDeFinalizacao": "2021-11-23",
+      "id": 25
+    },
+    {
+      "titulo": "O Homem que buscava sua sombra - Millennium 5",
+      "autor": "David Lagerkrantz",
+      "paginas": "358",
+      "editora": "Cia. das Letras",
+      "dataDeInicio": "2021-11-13",
+      "dataDeFinalizacao": "2021-11-30",
+      "id": 26
+    },
+    {
+      "titulo": "A garota marcada para morrer - Millennium 6",
+      "autor": "David Lagercrantz",
+      "paginas": "328",
+      "editora": "Cia. das Letras",
+      "dataDeInicio": "2021-11-30",
+      "dataDeFinalizacao": "2021-12-30",
+      "id": 27
+    }
+  ],
+  "livros2020": [
+    {
+      "titulo": "Uma breve história do mundo",
+      "autor": "Geofrey Blainey",
+      "paginas": "336",
+      "editora": "Fundamento",
+      "id": 1
+    },
+    {
+      "titulo": "A rainha do castelo de ar",
+      "autor": "Stieg Larsson",
+      "paginas": "688",
+      "editora": "Cia. das Letras",
+      "id": 2
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Continente 1",
+      "autor": "Erico Verissimo",
+      "paginas": "573",
+      "editora": "Cia. das Letras",
+      "id": 3
+    },
+    {
+      "titulo": "O tempo e o vento - O Continente 2",
+      "autor": "Erico Verissimo",
+      "paginas": "601",
+      "editora": "Cia. das Letras",
+      "id": 4
+    },
+    {
+      "titulo": "O tempo e o Vento - O Retrato 1",
+      "autor": "Erico Verissimo",
+      "paginas": "413",
+      "editora": "Cia. das Letras",
+      "id": 5
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Retrato 2",
+      "autor": "Erico Verissimo",
+      "paginas": "427",
+      "editora": "Cia. das Letras",
+      "id": 6
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Arquipelago 1",
+      "autor": "Erico Verissimo",
+      "paginas": "347",
+      "editora": "Cia. das letras",
+      "id": 7
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Arquipelago 2",
+      "autor": "Erico Verissimo",
+      "paginas": "432",
+      "editora": "Cia. das Letras",
+      "id": 8
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Arquipelago 3",
+      "autor": "Erico Verissimo",
+      "paginas": "560",
+      "editora": "Cia. das Letras",
+      "id": 9
+    },
+    {
+      "titulo": "Diário de uma paixão",
+      "autor": "Nicholas Sparks",
+      "paginas": "176",
+      "editora": "Arqueiro",
+      "id": 10
+    },
+    {
+      "titulo": "A escolha",
+      "autor": "Nicholas Sparks",
+      "paginas": "314",
+      "editora": "Arqueiro",
+      "id": 11
+    },
+    {
+      "titulo": "No seu olhar",
+      "autor": "Nicholas Sparks",
+      "paginas": "571",
+      "editora": "Arqueiro",
+      "id": 12
+    },
+    {
+      "titulo": "O namoro e o noivado que Deus sempre quis",
+      "autor": "Alexndre Mendes e David Merch",
+      "paginas": "272",
+      "editora": "United Press",
+      "id": 13
+    },
+    {
+      "titulo": "Caminhos Cruzados",
+      "autor": "Erico Verissimo",
+      "paginas": "368",
+      "editora": "Cia. das Letras",
+      "id": 14
+    },
+    {
+      "titulo": "O prisioneiro",
+      "autor": "Erico Verissimo",
+      "editora": "Cia. das Letras",
+      "paginas": "194",
+      "id": 15
+    },
+    {
+      "titulo": "Saga",
+      "autor": "Erico Verissimo",
+      "paginas": "319",
+      "editora": "Cia. das Letras",
+      "id": 16
+    },
+    {
+      "titulo": "Incidente em Antares",
+      "autor": "Erico Verissimo",
+      "paginas": "496",
+      "editora": "Cia. das Letras",
+      "id": 17
+    },
+    {
+      "titulo": "As crônicas de Nárnia",
+      "autor": "C. S. Lewis",
+      "paginas": "752",
+      "editora": "WMF Martins Fontes",
+      "id": 18
+    }
+  ],
+  "livros2019": [
+    {
+      "titulo": "Um amor para recordar",
+      "autor": "Nicholas Sparks",
+      "paginas": "186",
+      "editora": "Novo Conceito",
+      "id": 1
+    },
+    {
+      "titulo": "A toca das fadas",
+      "autor": "Clara Madrigano",
+      "paginas": "9",
+      "editora": "Draco",
+      "id": 2
+    },
+    {
+      "titulo": "O homem mais inteligente da história",
+      "autor": "Augusto Cury",
+      "paginas": "272",
+      "editora": "Sextante",
+      "id": 3
+    },
+    {
+      "titulo": "O tempo e o vento - O Continente 2",
+      "autor": "Erico Verissimo",
+      "editora": "O Globo",
+      "paginas": "601",
+      "id": 4
+    },
+    {
+      "titulo": "O tempo e o vento - O Continente 1",
+      "autor": "Erico Verissimo",
+      "paginas": "573",
+      "editora": "Cia. das Letras",
+      "id": 5
+    },
+    {
+      "titulo": "Perseguido",
+      "autor": "Luiz Alfredo Garcia Rosa",
+      "paginas": "208",
+      "editora": "Cia. das Letras",
+      "id": 6
+    },
+    {
+      "titulo": "Marina",
+      "autor": "Carlos Ruiz Zafón",
+      "paginas": "192",
+      "editora": "Suma",
+      "id": 7
+    },
+    {
+      "titulo": "Música ao longe",
+      "autor": "Erico Verissimo",
+      "paginas": "323",
+      "editora": "Cia. das Letras",
+      "id": 8
+    },
+    {
+      "titulo": "O homem mais feliz da história",
+      "autor": "Augusto Cury",
+      "paginas": "336",
+      "editora": "Sextante",
+      "id": 9
+    },
+    {
+      "titulo": "O tempo e o Vento - O Retrato 1",
+      "autor": "Erico Verissimo",
+      "paginas": "413",
+      "editora": "Cia. das Letras",
+      "id": 10
+    },
+    {
+      "titulo": "Marina",
+      "autor": "Carlos Ruiz Zafón",
+      "paginas": "190",
+      "editora": "Suma",
+      "id": 11
+    },
+    {
+      "titulo": "O Tempo e o Vento - O Retrato 2",
+      "autor": "Erico Verissimo",
+      "paginas": "427",
+      "editora": "Cia. das Letras",
+      "id": 12
+    },
+    {
+      "titulo": "A Farsa",
+      "autor": "Cristopher Reich",
+      "paginas": "336",
+      "editora": "Arqueiro",
+      "id": 13
+    },
+    {
+      "titulo": "As memórias do livro",
+      "autor": "Geraldine Brooks",
+      "paginas": "376",
+      "editora": "Globo Livros",
+      "id": 14
+    },
+    {
+      "titulo": "Olhai os lírios do campo",
+      "autor": "Erico Verissimo",
+      "paginas": "288",
+      "editora": "Cia. das Letras",
+      "id": 15
+    },
+    {
+      "titulo": "A rainha do castelo de ar",
+      "autor": "Stieg Larsson",
+      "paginas": "699",
+      "editora": "Cia. das Letras",
+      "id": 16
+    }
+  ]
+}
