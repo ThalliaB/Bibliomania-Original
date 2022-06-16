@@ -2,10 +2,8 @@ import { useLocation } from 'react-router-dom'
 
 import {useState, useEffect} from 'react'
 
-// import Message from '../layout/Message'
-// import LinkButtom from '../layout/LinkButtom'
 import Container from '../../layout/Container'
-import styles from './Table2019.module.css'
+import styles from '../TableConfig.module.css'
 
 function Table() {
 
