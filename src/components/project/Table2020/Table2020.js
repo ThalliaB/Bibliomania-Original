@@ -1,24 +1,14 @@
-import { useLocation } from 'react-router-dom'
-
 import {useState, useEffect} from 'react'
 
-// import Message from '../layout/Message'
-// import LinkButtom from '../layout/LinkButtom'
-import Container from '../layout/Container'
-import styles from './Table2019.module.css'
+import Container from '../../layout/Container'
+import styles from '../TableConfig.module.css'
 
-function Table() {
+function Table2020() {
 
     const [livros, setLivros] = useState([])
 
-    const location = useLocation()
-    let message = ''
-    if(location.state) {
-        message = location.state.message
-    }
-
     useEffect(() => {
-        fetch('http://localhost:5000/livros2019', {
+        fetch('http://localhost:5000/livros2020', {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
@@ -30,15 +20,13 @@ function Table() {
         })
         .catch((err) => console.log(err))
     }, [])
-    
+
     return (
         <div className={styles.project_container}>
             <div className={styles.title_container}>
-                <h1>Minha Tabela de 2019</h1>
-                {/* <LinkButtom to="/cadastro" text="Cadastrar" /> */}
+                <h1>Minha Tabela de 2020</h1>
             </div>
-            {/* {message && <Message type="success" msg={message} />} */}
-            <Container customClass="center">
+            <Container customClass="start">
                 <table>
                     <thead>
                         <tr>
@@ -63,12 +51,10 @@ function Table() {
                             )
                         })}
                     </tbody>
-
                 </table>
-            
             </Container>
         </div>
     ) 
 }
 
-export default Table
+export default Table2020
