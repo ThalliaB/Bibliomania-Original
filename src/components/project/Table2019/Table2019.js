@@ -1,4 +1,4 @@
-import { useLocation } from 'react-router-dom'
+// import { useLocation } from 'react-router-dom'
 
 import {useState, useEffect} from 'react'
 
@@ -9,11 +9,11 @@ function Table() {
 
     const [livros, setLivros] = useState([])
 
-    const location = useLocation()
-    let message = ''
-    if(location.state) {
-        message = location.state.message
-    }
+    // const location = useLocation()
+    // let message = ''
+    // if(location.state) {
+    //     message = location.state.message
+    // }
 
     useEffect(() => {
         fetch('http://localhost:5000/livros2019', {
@@ -36,7 +36,7 @@ function Table() {
                 {/* <LinkButtom to="/cadastro" text="Cadastrar" /> */}
             </div>
             {/* {message && <Message type="success" msg={message} />} */}
-            <Container customClass="center">
+            <Container customClass="start">
                 <table>
                     <thead>
                         <tr>
