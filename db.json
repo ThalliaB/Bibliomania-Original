@@ -1,5 +1,227 @@
 {
-  "livros2022": [],
+  "estante": [
+    {
+      "titulo": "O homem mais feliz da história",
+      "autor": "Augusto Cury",
+      "editora": "Sextante",
+      "paginas": "336",
+      "id": 1
+    },
+    {
+      "titulo": "O homem mais inteligente da história",
+      "autor": "Augusto Cury",
+      "paginas": "272",
+      "editora": "Sextante",
+      "id": 2
+    },
+    {
+      "titulo": "Como eu era antes de você",
+      "autor": "Jojo Moyes",
+      "editora": "Intrínseca",
+      "paginas": "320",
+      "id": 3
+    },
+    {
+      "titulo": "Depois de Você",
+      "autor": "Jojo Moyes",
+      "editora": "Intrínseca",
+      "paginas": "320",
+      "id": 4
+    },
+    {
+      "titulo": "Ainda sou eu",
+      "autor": "Jojo Moyes",
+      "editora": "Intrínseca",
+      "paginas": "398",
+      "id": 5
+    },
+    {
+      "titulo": "Os Miseráveis - Duologia",
+      "autor": "Victor Hugo",
+      "editora": "Nova Fronteira",
+      "paginas": "1560",
+      "id": 6
+    },
+    {
+      "titulo": "As crônicas de Nárnia",
+      "autor": "C. S. Lewis",
+      "paginas": "752",
+      "editora": "WMF Martins Fontes",
+      "id": 7
+    },
+    {
+      "titulo": "A garota do lago",
+      "autor": "Charlie Donlea",
+      "paginas": "296",
+      "editora": "Faro",
+      "id": 8
+    },
+    {
+      "titulo": "Alice no país das Maravílhas",
+      "autor": "Lewis Carroll",
+      "paginas": "142",
+      "editora": "Faro",
+      "id": 9
+    },
+    {
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "editora": "Princips",
+      "paginas": "367",
+      "id": 10
+    },
+    {
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "editora": "Princips",
+      "paginas": "239",
+      "id": 11
+    },
+    {
+      "titulo": "Os homens que não amavam as mulheres - Millennium 1",
+      "autor": "Stieg Larsson",
+      "editora": "Cia. das Letras",
+      "paginas": "526",
+      "id": 12
+    },
+    {
+      "titulo": "A menina que brincava com fogo - Millenniun 2",
+      "autor": "Stieg Larsson",
+      "paginas": "607",
+      "editora": "Cia. das Letras",
+      "id": 13
+    },
+    {
+      "titulo": "A rainha do castelo de ar - Millenniun 3",
+      "autor": "Stieg Larsson",
+      "paginas": "685",
+      "editora": "Cia. das Letras",
+      "id": 14
+    },
+    {
+      "titulo": "A garota na teia de aranha - Millenniun 4",
+      "autor": "David Lagercrantz",
+      "paginas": "464",
+      "editora": "Cia. das Letras",
+      "id": 15
+    },
+    {
+      "titulo": "O Homem que buscava sua sombra - Millennium 5",
+      "autor": "David Lagercrantz",
+      "paginas": "358",
+      "editora": "Cia. das Letras",
+      "id": 16
+    },
+    {
+      "titulo": "A garota marcada para morrer - Millennium 6",
+      "autor": "David Lagercrantz",
+      "paginas": "328",
+      "editora": "Cia. das Letras",
+      "id": 17
+    },
+    {
+      "titulo": "O Decamerão - Duologia",
+      "autor": "Giovanni Boccaccio",
+      "paginas": "1008",
+      "editora": "Nova Fronteira",
+      "id": 18
+    },
+    {
+      "titulo": "Novembro, 9",
+      "autor": "Collen Hoover",
+      "editora": "Galera",
+      "paginas": "351",
+      "id": 19
+    },
+    {
+      "titulo": "O guia definitivo do mochileiro das galáxias",
+      "autor": "Douglas Adams",
+      "editora": "Arqueiro",
+      "paginas": "783",
+      "id": 20
+    },
+    {
+      "titulo": "Trilogia da Fundação",
+      "autor": "Izaac Azimov",
+      "paginas": "835",
+      "editora": "Aleph",
+      "id": 21
+    },
+    {
+      "titulo": "Mulheres que correm com os lobos",
+      "autor": " Clarissa Pinkola Estés",
+      "paginas": "576",
+      "editora": "Rocco",
+      "id": 22
+    },
+    {
+      "titulo": "Love - A história de Lisey",
+      "autor": "Stephen King",
+      "editora": "Suma",
+      "paginas": "722",
+      "id": 23
+    },
+    {
+      "titulo": "Os sete maridos de Evelyn Hugo - Capa dura",
+      "autor": "Taylor Jenkins Reid",
+      "paginas": "352",
+      "editora": "Paralela",
+      "id": 24
+    },
+    {
+      "titulo": "Madame Bovary",
+      "autor": "Gustave Flaubert",
+      "editora": "Martin Claret",
+      "paginas": "395",
+      "id": 25
+    }
+  ],
+  "livros2022": [
+    {
+      "titulo": "O guia definitivo do mochileiro das galáxias",
+      "autor": "Douglas Adams",
+      "paginas": "783",
+      "editora": "Arqueiro",
+      "dataDeInicio": "2021-12-19",
+      "dataDeFinalizacao": "2022-01-12",
+      "id": 1
+    },
+    {
+      "titulo": "Love - A história de Lisey",
+      "autor": "Stephen King",
+      "paginas": "529",
+      "editora": "Suma",
+      "dataDeInicio": "2022-01-13",
+      "dataDeFinalizacao": "2022-01-22",
+      "id": 2
+    },
+    {
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "paginas": "240",
+      "editora": "Princips",
+      "dataDeInicio": "2022-02-02",
+      "dataDeFinalizacao": "2022-02-07",
+      "id": 3
+    },
+    {
+      "titulo": "Agir e pensar como um gato",
+      "autor": "Stéphane Garnier",
+      "paginas": "124",
+      "editora": "Valentina",
+      "dataDeFinalizacao": "2022-02-14",
+      "id": 4
+    },
+    {
+      "titulo": "Trilogia da Fundação",
+      "autor": "Izaac Azimov",
+      "paginas": "835",
+      "editora": "Aleph",
+      "dataDeInicio": "2022-01-23",
+      "dataDeFinalizacao": "2022-03-01",
+      "id": 5
+    }
+  ],
   "livros2021": [
     {
       "titulo": "Os Miseráveis Vol 1",

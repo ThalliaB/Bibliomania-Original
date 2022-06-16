@@ -6,9 +6,10 @@ function Home() {
     return (
         <section className={styles.home_container}>
             <img src={imagem} alt="Bibliomania"/>
-            <LinkButtom to="/cadastro" text="Cadastrar" />
-            <LinkButtom to="/tabela2022" text="Ver tabela de 2022" />
-            <LinkButtom to="/tabelacompleta" text="Ver tabela completa" />
+            <LinkButtom to="/estante" text="Minha estante" />
+            <LinkButtom to="/tabelacompleta" text="Ver livros lidos" />
+            <LinkButtom to="/cadastro" text="Cadastrar livro lido" />
+            <LinkButtom to="/cadastraEstante" text="Cadastrar livro novo na estante" />
         </section>    
     )
 }

@@ -3,12 +3,12 @@ import { useNavigate } from 'react-router-dom'
 import styles from './Cadastro.module.css'
 import ProjectForm from '../project/ProjectForm/ProjectForm'
 
-function Cadastro({urlTo, navigateTo}) {
+function CadastraEstante({urlTo, navigateTo}) {
 
     const navigate = useNavigate();
 
     function createBook(livro) {
-        fetch('http://localhost:5000/livros2022', {
+        fetch('http://localhost:5000/estante', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -18,7 +18,7 @@ function Cadastro({urlTo, navigateTo}) {
         .then((data) => {
             console.log(data)
             //redirect
-            navigate('/tabelacompleta', { state: {message: 'Livro adicionado com sucesso!'} })
+            navigate('/estante', { state: {message: 'Livro adicionado com sucesso!'} })
         })
         .catch((err) => console.log(err))
     }
@@ -31,4 +31,4 @@ function Cadastro({urlTo, navigateTo}) {
     )
 }
 
-export default Cadastro
+export default CadastraEstante

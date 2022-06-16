@@ -15,10 +15,13 @@ function Navbar() {
                         <Link to="/">Home</Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/cadastro">Cadastro</Link>
+                        <Link to="/cadastro">Cadastrar livro lido</Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/tabelacompleta">Ver tabela completa</Link>
+                        <Link to="/tabelacompleta">Ver livros lidos no ano</Link>
+                    </li>
+                    <li className={styles.item}>
+                        <Link to="/estante">Minha estante</Link>
                     </li>
                     <li className={styles.item}>
                         <Link to="/sobre">Sobre</Link>

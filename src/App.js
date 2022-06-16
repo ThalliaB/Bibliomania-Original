@@ -8,7 +8,9 @@ import Cadastro from './components/pages/Cadastro';
 import Home from './components/pages/Home';
 import Sobre from './components/pages/Sobre';
 import TabelaCompleta from './components/pages/TabelaCompleta';
-import Tabela2022 from './components/pages/Tabela2022';
+import Estante from './components/pages/Estante';
+import CadastraEstante from './components/pages/CadastraEstante';
+// import Tabela2022 from './components/pages/Tabela2022';
 
 
 function App() {
@@ -22,8 +24,10 @@ function App() {
           {/* aqui vao as referencias q dps serão chamadas para o roteamento das paginas */}
           <Route path="/" element={<Home/>} />
           <Route path="/cadastro" element={<Cadastro/>} />
+          <Route path="/cadastraEstante" element={<CadastraEstante/>} />
           <Route path="/tabelacompleta" element={<TabelaCompleta/>} />
-          <Route path="/tabela2022" element={<Tabela2022/>} />
+          <Route path="/estante" element={<Estante/>} />
+          {/* <Route path="/tabela2022" element={<Tabela2022/>} /> */}
           <Route path="/sobre" element={<Sobre/>} />
         </Routes>
       </Container>
