@@ -1,0 +1,20 @@
+.container_total {
+    display: flex;
+    justify-content: space-around;
+    max-width: 80%;
+    /* text-align: center; */
+    margin: 0 auto;
+}
+
+.div_img {
+    padding: 2em;
+}
+
+.img {
+    border-radius: 10px;
+    max-width: 350px;
+}
+
+.div_txt {
+    padding: 2em;
+}
