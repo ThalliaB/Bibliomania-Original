@@ -6,7 +6,7 @@
 }
 
 html, body, #root {
-  background-color: #FFEBF2;
+  background-color: #F7E1D7;
   height: 100%;
 }
 
@@ -19,7 +19,7 @@ tr, td, th {
 
 tr > th, tr > td:first-child {
   border: none;
-  background-color: #F20C5B;
+  background-color: #B6000F;
   color: #fff;
 }
 
