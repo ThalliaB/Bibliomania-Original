@@ -174,6 +174,69 @@
       "editora": "Martin Claret",
       "paginas": "395",
       "id": 25
+    },
+    {
+      "titulo": "1793",
+      "autor": "Niklas Natt och Dag",
+      "paginas": "431",
+      "editora": "Intrínseca",
+      "id": 26
+    },
+    {
+      "titulo": "Corte de Espinhos e Rosas",
+      "autor": "Sarah J. Maas",
+      "paginas": "427",
+      "editora": "Galera",
+      "id": 27
+    },
+    {
+      "titulo": "Corte de Névoa e Fúria",
+      "autor": "Sarah J. Maas",
+      "paginas": "654",
+      "editora": "Galera",
+      "id": 28
+    },
+    {
+      "titulo": "Corte de Assas e Ruínas",
+      "autor": "Sarah J. Maas",
+      "paginas": "682",
+      "editora": "Galera",
+      "id": 29
+    },
+    {
+      "titulo": "Corte de Gelo e Estrelas",
+      "autor": "Sarah J. Maas",
+      "paginas": "233",
+      "editora": "Galera",
+      "id": 30
+    },
+    {
+      "titulo": "O Projeto Jane Austen",
+      "autor": "Kathleen A. Flynn",
+      "paginas": "319",
+      "editora": "Única",
+      "id": 31
+    },
+    {
+      "titulo": "12 semanas para mudar uma vida",
+      "autor": "Augusto Cury",
+      "paginas": "245",
+      "editora": "Academia",
+      "id": 32
+    },
+    {
+      "titulo": "Um de nós está mentindo",
+      "autor": "Karen M. McManus",
+      "paginas": "382",
+      "editora": "Galera",
+      "id": 33
+    },
+    {
+      "titulo": "Persuasão",
+      "autor": "Jane Austen",
+      "paginas": "239",
+      "editora": "Vitrola",
+      "id": 34
     }
   ],
   "livros2022": [
@@ -220,6 +283,111 @@
       "dataDeInicio": "2022-01-23",
       "dataDeFinalizacao": "2022-03-01",
       "id": 5
+    },
+    {
+      "titulo": "A moreninha",
+      "autor": "Joaquim Manoel de Macedo",
+      "paginas": "171",
+      "editora": "Gold",
+      "dataDeInicio": "2022-02-14",
+      "dataDeFinalizacao": "2022-03-03",
+      "id": 6
+    },
+    {
+      "titulo": "O assasinato de Roger Ackroyd",
+      "autor": "Agatha Christie",
+      "paginas": "208",
+      "editora": "GloboLivros",
+      "dataDeInicio": "2022-03-03",
+      "dataDeFinalizacao": "2022-03-11",
+      "id": 7
+    },
+    {
+      "titulo": "Textos Cruéis de Mais para serem lidos Rapidamente",
+      "autor": "Gabriela Barreira e Igor Pires",
+      "paginas": "200",
+      "editora": "GloboLivros",
+      "dataDeInicio": "2022-03-01",
+      "dataDeFinalizacao": "2022-03-24",
+      "id": 8
+    },
+    {
+      "titulo": "Conectadas",
+      "autor": "Clara Alves",
+      "paginas": "271",
+      "editora": "Seguinte",
+      "dataDeFinalizacao": "2022-04-10",
+      "dataDeInicio": "2022-03-01",
+      "id": 9
+    },
+    {
+      "titulo": "Proibido",
+      "autor": "Tabitha Suzuma",
+      "paginas": "297",
+      "editora": "Valentina",
+      "dataDeInicio": "2022-04-18",
+      "dataDeFinalizacao": "2022-04-26",
+      "id": 10
+    },
+    {
+      "titulo": "Sixteen - o amor através dos tempos",
+      "autor": "Luíza Araujo",
+      "paginas": "86",
+      "editora": "Labrador",
+      "dataDeInicio": "2022-04-10",
+      "dataDeFinalizacao": "2022-04-18",
+      "id": 11
+    },
+    {
+      "titulo": "Os sete maridos de Evelyn Hugo",
+      "autor": "Taylor Jenkins Reid",
+      "paginas": "354",
+      "editora": "Paralela",
+      "dataDeInicio": "2022-05-14",
+      "dataDeFinalizacao": "2022-05-20",
+      "id": 12
+    },
+    {
+      "titulo": "SIG na atualidade",
+      "paginas": "200",
+      "editora": "Intersaberes",
+      "id": 13
+    },
+    {
+      "titulo": "Madame Bovary",
+      "autor": "Gustave Flaubert",
+      "paginas": "397",
+      "editora": "Martin Claret",
+      "dataDeInicio": "2022-06-02",
+      "dataDeFinalizacao": "2022-08-04",
+      "id": 14
+    },
+    {
+      "titulo": "Corte de Espinhos e Rosas",
+      "autor": "Sarah J. Maas",
+      "paginas": "427",
+      "editora": "Galera",
+      "dataDeInicio": "2022-08-20",
+      "dataDeFinalizacao": "2022-09-24",
+      "id": 15
+    },
+    {
+      "titulo": "Corte de Névoa e Fúria",
+      "autor": "Sarah J. Maas",
+      "paginas": "654",
+      "editora": "Galera",
+      "dataDeInicio": "2022-09-25",
+      "dataDeFinalizacao": "2022-10-13",
+      "id": 16
+    },
+    {
+      "titulo": "Corte de Asas e Ruínas",
+      "autor": "Sarah J. Maas",
+      "paginas": "682",
+      "editora": "Galera",
+      "dataDeInicio": "2022-10-14",
+      "dataDeFinalizacao": "2022-11-28",
+      "id": 17
     }
   ],
   "livros2021": [
