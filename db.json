@@ -237,7 +237,23 @@
       "paginas": "239",
       "editora": "Vitrola",
       "id": 34
+    },
+    {
+      "titulo": "Corte de Chamas Prateadas",
+      "autor": "Sarah J. Maas",
+      "paginas": "712",
+      "editora": "Galera",
+      "id": 35
+    },
+    {
+      "titulo": "NIna",
+      "autor": "J. M. Simmel",
+      "paginas": "441",
+      "editora": "Nova Fronteira",
+      "id": 36
     }
+  ],
+  "livros2023": [
   ],
   "livros2022": [
     {
@@ -388,6 +404,15 @@
       "dataDeInicio": "2022-10-14",
       "dataDeFinalizacao": "2022-11-28",
       "id": 17
+    },
+    {
+      "titulo": "Corte de Gelo e Estrelas",
+      "autor": "Sarah J. Maas",
+      "paginas": "233",
+      "editora": "Galera",
+      "dataDeInicio": "2022-12-09",
+      "dataDeFinalizacao": "2022-12-20",
+      "id": 18
     }
   ],
   "livros2021": [

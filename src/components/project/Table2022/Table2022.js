@@ -1,21 +1,21 @@
-import { useLocation } from 'react-router-dom'
+// import { useLocation } from 'react-router-dom'
 
 import {useState, useEffect} from 'react'
 
-import Message from '../../layout/Message'
-import LinkButtom from '../../layout/LinkButtom'
+// import Message from '../../layout/Message'
+// import LinkButtom from '../../layout/LinkButtom'
 import Container from '../../layout/Container'
 import styles from '../TableConfig.module.css'
 
-function Table2021({key}) {
+function Table2022({key}) {
 
     const [livros, setLivros] = useState([])
 
-    const location = useLocation()
-    let message = ''
-    if(location.state) {
-        message = location.state.message
-    }
+    // const location = useLocation()
+    // let message = ''
+    // if(location.state) {
+    //     message = location.state.message
+    // }
 
     useEffect(() => {
         fetch('http://localhost:5000/livros2022', {
@@ -35,9 +35,9 @@ function Table2021({key}) {
         <div className={styles.project_container}>
             <div className={styles.title_container}>
                 <h1>Minha Tabela de 2022</h1>
-                <LinkButtom to="/cadastro" text="Cadastrar" />
+                {/* <LinkButtom to="/cadastro" text="Cadastrar" /> */}
             </div>
-            {message && <Message type="success" msg={message} />}
+            {/* {message && <Message type="success" msg={message} />} */}
             <Container customClass="start">
                 <table>
                     <thead>
@@ -73,4 +73,4 @@ function Table2021({key}) {
     ) 
 }
 
-export default Table2021
+export default Table2022

@@ -8,7 +8,7 @@ function Cadastro({urlTo, navigateTo}) {
     const navigate = useNavigate();
 
     function createBook(livro) {
-        fetch('http://localhost:5000/livros2022', {
+        fetch('http://localhost:5000/livros2023', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
