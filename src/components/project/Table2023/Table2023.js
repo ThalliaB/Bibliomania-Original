@@ -76,29 +76,32 @@ function Table2023({key}) {
 export default Table2023
 
 
+
+
 // import {initializeApp} from 'firebase/app'
 // import {getFirestore, getDocs, collection} from 'firebase/firestore'
+// import { database } from "../../../FirebaseConfig";
 
 // import {useState, useEffect} from 'react'
 
-// import Message from '../../layout/Message'
+// // import Message from '../../layout/Message'
 // import LinkButtom from '../../layout/LinkButtom'
 // import Container from '../../layout/Container'
 // import styles from '../TableConfig.module.css'
 
 
-// const firebaseApp = initializeApp({
-//     apiKey: "AIzaSyBIBC7BgLJbEGkQR7kXAHdJEUMG6JObagY",
-//     authDomain: "teste2-d58e6.firebaseapp.com",
-//     projectId: "teste2-d58e6"
-//   }); 
+// // const firebaseApp = initializeApp({
+// //     apiKey: "AIzaSyBIBC7BgLJbEGkQR7kXAHdJEUMG6JObagY",
+// //     authDomain: "teste2-d58e6.firebaseapp.com",
+// //     projectId: "teste2-d58e6"
+// //   }); 
 
 
 // function Table2021({key}) {
 
 //     const [users, setUsers] = useState([]);
 
-//     const db = getFirestore(firebaseApp);
+//     const db = getFirestore(database);
 //     const userCollectionRef = collection(db, "users");
 
 //     useEffect(() => {
@@ -135,10 +138,13 @@ export default Table2023
 //                         {users.map(user => {
 //                             return(
 //                                 <tr key={user.id}>
+//                                     <td>{user.posicao}</td>
 //                                     <td>{user.titulo}</td>
 //                                     <td>{user.autor}</td>
 //                                     <td>{user.paginas}</td>
 //                                     <td>{user.editora}</td>
+//                                     {/* <td>{user.inicio}</td> */}
+//                                     {/* <td>{user.editora}</td> */}
 //                                 </tr>
 //                             )
 //                         })}

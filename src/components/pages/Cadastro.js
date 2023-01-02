@@ -31,4 +31,40 @@ function Cadastro({urlTo, navigateTo}) {
     )
 }
 
+
+
+
+// import { initializeApp } from "firebase/app"
+// import { getFirestore, collection, addDoc } from "firebase/firestore"
+// import { useState } from "react";
+
+
+// function Cadastro({urlTo, navigateTo}) {
+
+//     const firebaseApp = initializeApp({
+//         apiKey: "AIzaSyBIBC7BgLJbEGkQR7kXAHdJEUMG6JObagY",
+//         authDomain: "teste2-d58e6.firebaseapp.com",
+//         projectId: "teste2-d58e6"
+//     }); 
+
+//     const [titulo, setTitulo] = useState("");
+//     const [autor, setAutor] = useState("");
+
+//     const db = getFirestore(firebaseApp);
+//     const userColectionRef = collection(db, "users");
+
+//     async function createBook(){
+//     const user = await addDoc(userColectionRef, {
+//         titulo, autor,
+//     });
+//     console.log(user);
+//     }
+
+//     return (
+//         <div className={styles.cadastro_container}>
+//             <h1>Cadastrar</h1>
+//             <ProjectForm handleSubmit={createBook} btnText="Cadastrar" />
+//         </div>
+//     )
+// }
 export default Cadastro
